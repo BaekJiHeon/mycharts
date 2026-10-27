@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  sk076-myfirst-helmchart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2026-10-27T10:10:00.211823+09:00"
+    description: SKALA sk076 DevOps application chart
+    digest: 6b5fb4dbf4cd04cfee19b8ed2e61f9aeec447afc58a1da7ff56a23f1c8b6f03f
+    name: sk076-myfirst-helmchart
+    type: application
+    urls:
+    - https://BaekJiHeon.github.io/mycharts/sk076-myfirst-helmchart-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2026-10-27T10:10:00.211649+09:00"
+    description: SKALA sk076 DevOps application chart
+    digest: 7ed778b7bb76f65a2deedd6774dfd848aa0d84453f64ebc56aeb4a9cb9b019db
+    name: sk076-myfirst-helmchart
+    type: application
+    urls:
+    - https://BaekJiHeon.github.io/mycharts/sk076-myfirst-helmchart-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-10-27T10:10:00.211353+09:00"
